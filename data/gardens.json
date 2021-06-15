@@ -7,7 +7,7 @@
 		"Team",
 		"Contact"
 	],
-	"p1_image": "https://picsum.photos/400",
+	"p1_image": "https://cdn.jsdelivr.net/gh/rcoswe/gardens@9c8fbb85d8175ad85e4af5ddd5d52d09b927babe/data/images/garden.jpeg",
 	"p1_headline": "CSS Forest: Bootstrap",
 	"p1_content": "\n          Edit here. Use the link <a href=\"?login\">?login</a> to see the edit toolbar.\n        "
 }
